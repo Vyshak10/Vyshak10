@@ -26,7 +26,7 @@ A full-stack job placement platform that uses skill-based job matching, resume p
 Flutter app connecting startups with investors, with analytics dashboards and company profiles.  
 **Tech**: Flutter, PHP (Laravel), MySQL, cPanel
 
-### 🔹 Blinkit Sales Analysis Dashboard *(Coming Soon)*
+### 🔹 Blinkit Sales Analysis Dashboard 
 A Power BI dashboard analyzing order trends, product popularity, and seasonal shifts for Blinkit sales data.  
 **Tech**: Power BI, Excel, SQL
 
