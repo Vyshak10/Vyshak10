@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vyshak Krishna!
+# Hi there, I'm Vyshak Krishna!
 🎓 B.Tech IT student | 🧑‍💻 Flutter & Full-Stack Developer | 📊 Data Analyst
 
 
