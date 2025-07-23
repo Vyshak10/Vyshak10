@@ -40,5 +40,5 @@ A predictive model to classify patients using SVM based on biomedical voice data
 
 - ✉️ Email: vyshak9333@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/vyshak-krishna-708a64302](https://www.linkedin.com/in/vyshak-krishna-708a64302/)  
-- 🌐 Portfolio (if any): *[Add here if you have one]*
+
 
